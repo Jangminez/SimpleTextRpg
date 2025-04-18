@@ -1,0 +1,14 @@
+e:\C# Study\SimpleTextRpg\bin\Debug\net9.0\SimpleTextRpg.exe
+E:\C# Study\SimpleTextRpg\bin\Debug\net9.0\SimpleTextRpg.deps.json
+E:\C# Study\SimpleTextRpg\bin\Debug\net9.0\SimpleTextRpg.runtimeconfig.json
+e:\C# Study\SimpleTextRpg\bin\Debug\net9.0\SimpleTextRpg.dll
+e:\C# Study\SimpleTextRpg\bin\Debug\net9.0\SimpleTextRpg.pdb
+e:\C# Study\SimpleTextRpg\obj\Debug\net9.0\SimpleTextRpg.GeneratedMSBuildEditorConfig.editorconfig
+e:\C# Study\SimpleTextRpg\obj\Debug\net9.0\SimpleTextRpg.AssemblyInfoInputs.cache
+e:\C# Study\SimpleTextRpg\obj\Debug\net9.0\SimpleTextRpg.AssemblyInfo.cs
+e:\C# Study\SimpleTextRpg\obj\Debug\net9.0\SimpleTextRpg.csproj.CoreCompileInputs.cache
+e:\C# Study\SimpleTextRpg\obj\Debug\net9.0\SimpleTextRpg.dll
+e:\C# Study\SimpleTextRpg\obj\Debug\net9.0\refint\SimpleTextRpg.dll
+e:\C# Study\SimpleTextRpg\obj\Debug\net9.0\SimpleTextRpg.pdb
+E:\C# Study\SimpleTextRpg\obj\Debug\net9.0\SimpleTextRpg.genruntimeconfig.cache
+E:\C# Study\SimpleTextRpg\obj\Debug\net9.0\ref\SimpleTextRpg.dll
